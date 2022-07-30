@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/first-test-freecode-camp/static/css/main.92901ca1.css",
+    "main.js": "/first-test-freecode-camp/static/js/main.83555387.js",
+    "static/js/787.d6348e0e.chunk.js": "/first-test-freecode-camp/static/js/787.d6348e0e.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/first-test-freecode-camp/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/first-test-freecode-camp/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/first-test-freecode-camp/index.html",
+    "main.92901ca1.css.map": "/first-test-freecode-camp/static/css/main.92901ca1.css.map",
+    "main.83555387.js.map": "/first-test-freecode-camp/static/js/main.83555387.js.map",
+    "787.d6348e0e.chunk.js.map": "/first-test-freecode-camp/static/js/787.d6348e0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92901ca1.css",
+    "static/js/main.83555387.js"
+  ]
+}
